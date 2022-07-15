@@ -1,0 +1,22 @@
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.bottom__people__buttons{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    border-radius: 2rem;
+    width: 25px;
+    height: 25px;
+    border: none;
+    margin: 1px 7px;
+    background-color: rgba(110, 152, 234, 0.42);
+}
+.bottom__totalAmount{
+    margin-top: 20px;
+}

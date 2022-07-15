@@ -1,0 +1,22 @@
+form{
+    margin: 1.5rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-top: 1rem;
+}
+span{
+    position: relative;
+    top: 25px;
+    left: 10px;
+}
+input{
+    background-color: rgb(39, 39, 85);
+    border: none;
+    border-radius: 2rem;
+    padding: 0.5rem 1.8rem;
+}
+span{
+    width: 0px;
+}
