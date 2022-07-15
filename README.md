@@ -1,4 +1,4 @@
-# TAKE A LOOK AT THE DEPLOYED APP
+# HAVE A LOOK AT THE DEPLOYED APP USING THE LINK BELOW
 # https://tipcalculator-a8019.web.app/
 
 
